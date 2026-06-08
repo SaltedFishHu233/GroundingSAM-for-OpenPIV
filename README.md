@@ -19,7 +19,10 @@ pip install git+https://github.com/ali-sh-96/openpiv-python-cpu
 to install oepnpiv-python-cpu
 
 ## Notebook Description
+There are three notebooks for this repository:
 
 GroundedSAMClean: Step by step workflow of the automated script in the Scripts folder
+
 AutoGS: Simplified mask generation to test the script in Scripts folder
+
 OpenPIVwGS: Integrated workflow of PIV analysis with the automated mask generation
